@@ -1,0 +1,13 @@
+/* gernral */
+a
+{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color: brown;
+}
+a:focus {
+    text-decoration: none;
+    color: brown;
+}

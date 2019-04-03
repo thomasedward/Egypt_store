@@ -1,0 +1,7 @@
+done with 
+- html 
+- css 
+- jq
+- bootstrap 4
+- ajax
+- native php 
